@@ -1,0 +1,2 @@
+# pidgin-notes
+Pidgin notes.
